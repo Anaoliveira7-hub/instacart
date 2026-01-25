@@ -1,6 +1,8 @@
-# instacart
+## Descrição do Projeto
 
-Este projeto foi desenvolvido através do Bootcamp da TripleTen em Análise de Dados. 
+Neste projeto, é realizada uma análise de dados da **Instacart**, uma plataforma de entrega de supermercados que permite aos clientes fazer pedidos online e recebê-los em casa.
 
-Análise de uma plataforma de entrega de supermercado onde os clientes podem fazer um pedido no supermercado e depois receber sua compra. 
-Foram realizadas análises para determinar o perfil de clientes, horário de pico, produtos favoritos dos clientes e número médio de itens por pedido. 
+O conjunto de dados utilizado foi disponibilizado publicamente pela Instacart em 2017 para uma competição da Kaggle e contém informações reais sobre o comportamento de compra dos usuários. A análise tem como objetivo extrair insights relevantes e aplicar técnicas de manipulação e exploração de dados.
+
+---
+📎 Projeto desenvolvido com fins educacionais e de prática em análise de dados.
